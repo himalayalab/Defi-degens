@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Defi-degens/static/css/main.48aab38e.css",
+    "main.js": "/Defi-degens/static/js/main.f61829d4.js",
+    "static/js/453.e86c1c3a.chunk.js": "/Defi-degens/static/js/453.e86c1c3a.chunk.js",
+    "static/media/defi66.jpg": "/Defi-degens/static/media/defi66.495313151553ee14789a.jpg",
+    "static/media/logo.png": "/Defi-degens/static/media/logo.b363484b80b668e0ec90.png",
+    "static/media/defi5.jpg": "/Defi-degens/static/media/defi5.81da2982cb9b5113c328.jpg",
+    "static/media/defi4.jpg": "/Defi-degens/static/media/defi4.11f65f6b9b4d3d2c6590.jpg",
+    "static/media/defi2.jpg": "/Defi-degens/static/media/defi2.cb2c0596d1a5abf41805.jpg",
+    "static/media/defi1.jpg": "/Defi-degens/static/media/defi1.dcb8dc4a60ad995a5ab7.jpg",
+    "static/media/defi3.jpg": "/Defi-degens/static/media/defi3.5c05ce15b7a972e8d2be.jpg",
+    "static/media/slick.svg": "/Defi-degens/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Defi-degens/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Defi-degens/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Defi-degens/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Defi-degens/index.html",
+    "main.48aab38e.css.map": "/Defi-degens/static/css/main.48aab38e.css.map",
+    "main.f61829d4.js.map": "/Defi-degens/static/js/main.f61829d4.js.map",
+    "453.e86c1c3a.chunk.js.map": "/Defi-degens/static/js/453.e86c1c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48aab38e.css",
+    "static/js/main.f61829d4.js"
+  ]
+}
